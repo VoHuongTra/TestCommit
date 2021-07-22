@@ -23,7 +23,7 @@ public class Task1 {
 
 
     public boolean isVowel(char c) {
-        // write your code here
+
         return true;
     }
 }

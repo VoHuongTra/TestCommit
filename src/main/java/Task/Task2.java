@@ -18,6 +18,7 @@ public class Task2 {
 
     public void sort(String[] array) {
         //write your code here
+        System.out.println("Test first");
 
     }
 
